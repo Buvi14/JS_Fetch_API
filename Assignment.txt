@@ -1,0 +1,18 @@
+1. Show loding screen when someone enters your webpage
+    - For creating loader (https://www.w3schools.com/howto/howto_css_loader.asp)
+
+2. Fetch results from https://swapi.dev/api/people/ in background
+
+3. Render it on screen with following information in card view
+"name": "Luke Skywalker", 
+"height": "172", 
+"mass": "77", 
+"hair_color": "blond", 
+"skin_color": "fair", 
+"eye_color": "blue", 
+"birth_year": "19BBY", 
+"gender": "male", 
+
+4. You should be also able to delete that
+
+Endpoint for planets: https://swapi.dev/api/planets
